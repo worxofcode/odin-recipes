@@ -21,6 +21,12 @@ li {
     line-height: 1.5;
 }
 
+img {
+    display: block;
+    max-width: 50%;
+    margin: auto;
+}
+
 a {
     background-color: #f0f0f0;
     color: #111111;
