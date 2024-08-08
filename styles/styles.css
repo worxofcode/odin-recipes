@@ -1,5 +1,8 @@
 /* font-family, font-size, font-weight, text-align, color, background-color, width, height */
 
+* {
+    box-sizing: border-box;
+}
 
 html {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
